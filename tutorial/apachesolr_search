@@ -1,0 +1,1116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nb" lang="nb" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Søk | Akademika.no - Størst utvalg av fagbøker, pensumbøker, lærebøker til lave priser!</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!--[if lt IE 7]>
+            <script type="text/javascript">document.execCommand("BackgroundImageCache", false, true);
+              var BlankImgPath = "/sites/all/modules/pngbehave";
+ 	    </script>
+        <style type="text/css">.ribbon-price { behavior: url(/sites/all/modules/pngbehave/iepngfix.htc)} </style>
+        <script type="text/javascript" src="/sites/all/modules/pngbehave/iepngfix_tilebg.js"></script>
+    <![endif]-->
+<link rel="shortcut icon" href="/sites/default/themes/akav3/favicon.ico" type="image/x-icon" />
+<meta property="fb:app_id" content="292711550800937"/>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_d657c767356a56c452b172c0820471db.css" />
+  <script type="text/javascript" src="/sites/default/files/js/js_7602b2bbc04005e6732cc0020cddcfd2.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","apachesolr_autocomplete":{"path":"\/apachesolr_autocomplete"},"fivestar":{"titleUser":"Din karakter: ","titleAverage":"Gjennomsnittlig karakter: ","feedbackSavingVote":"Lagrer din karakter...","feedbackVoteSaved":"Din karakter ble lagret.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Din karakter er slettet."},"googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"uc_ajax_cart":{"CALLBACK":"\/uc_ajax_cart\/add\/item","SHOW_CALLBACK":"\/uc_ajax_cart\/show","CART_LINK_CALLBACK":"\/uc_ajax_cart\/addlink","BLOCK_UI":2,"TIMEOUT":5000,"UPDATE_CALLBACK":"\/uc_ajax_cart\/update","UPDATE":0,"CART_VIEW_ON":0,"SHOW_VIEW_CALLBACK":"\/uc_ajax_cart\/show-cart-view","TRACK_CLOSED_STATE":0,"INITIAL_CLOSED_STATE":0,"CART_PANE_EFFECT":0,"CART_PANE_EFFECT_DURATION":200,"HIDE_CART_OPERATIONS":false,"COLLAPSIBLE_CART":0,"CART_OPERATION":"Handlepose","ADD_TITLE":"Vennligst vent","ADD_MESSAGES":["Legger produktet i handleposen..."],"REMOVE_TITLE":"Vennligst vent","REMOVE_MESSAGES":["Fjerner produktet fra handleposen..."],"UPDATE_TITLE":"Vennligst vent","UPDATE_MESSAGES":["Oppdaterer handleposen..."],"AJAXIFY_CLASS_EXCLUDES":0,"AJAXIFY_CLASS":"akav3-ajax-cart"}});
+//--><!]]>
+</script>
+
+  <!--[if IE 7]>
+    <style type="text/css" media="all">@import "/sites/default/themes/akav3/ie7.css";</style>
+  <![endif]-->
+
+  <script type="text/javascript">
+    function toggleDiv(divid){
+      if(document.getElementById(divid).style.display == 'none'){
+        document.getElementById(divid).style.display = 'block';
+      }else{
+        document.getElementById(divid).style.display = 'none';
+      }
+    }
+  </script>
+</head>
+<body>
+
+  <div id="wrapper" class="v3_header">
+
+    <div id="header">
+  <div id="hovedmeny">
+    <div id="header-links">
+                      <ul class="vaare-butikker">
+            <li>
+              <a href="/butikker">Butikker</a>              <ul>
+                <li><a href="/node/7793603">Akademika Nydalen</a></li><li><a href="/node/7793614">Akademika Blindern</a></li><li><a href="/node/7812425">Kopiutsalget på Blindern</a></li><li><a href="/node/7812426">Akademika Bodø</a></li><li><a href="/node/7812427">Akademika Frydenlund</a></li><li><a href="/node/7812429">Akademika Holbergs plass</a></li><li><a href="/node/7812430">Akademika Medisin</a></li><li><a href="/node/7812431">Akademika Jus</a></li><li><a href="/node/7812432">Akademika Veterinær</a></li><li><a href="/node/7812433">Akademika Idrett</a></li><li><a href="/node/7812434">Akademika Sport</a></li><li><a href="/node/7812435">Akademika Kjeller</a></li><li><a href="/node/7812436">Akademika Bø</a></li><li><a href="/node/7812437">Akademika Notodden</a></li><li><a href="/node/7812438">Akademika Porsgrunn</a></li><li><a href="/node/7812439">Akademika Hokksund</a></li><li><a href="/node/7812440">Akademika Hønefoss</a></li><li><a href="/node/7812441">Akademika Kongsberg</a></li><li><a href="/node/8602126">Akademika Gløshaugen</a></li><li><a href="/node/8602127">Akademika Moholt</a></li><li><a href="/node/8602128">Akademika Leangen</a></li><li><a href="/node/8602129">Akademika Rotvoll</a></li><li><a href="/node/8602130">Akademika DMMH</a></li><li><a href="/node/8602131">Akademika Dragvoll</a></li><li><a href="/node/8602132">Akademika Kalvskinnet</a></li><li><a href="/node/9956336">Akademika Narvik</a></li><li><a href="/node/10277259">Akademika Øya</a></li>              </ul>
+            </li>
+          </ul>
+        <div id="block-menu-menu-toppmeny" class="clear-block block block-menu">
+
+  
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/node/9323759" title="">Hjelp og informasjon</a></li>
+<li class="leaf"><a href="/kontakt" title="">Kontakt oss</a></li>
+<li class="leaf"><a href="http://www.tapirforlag.no/" title="">Forlag</a></li>
+<li class="leaf"><a href="/user" title="Din konto">Din konto</a></li>
+<li class="leaf last"><a href="/user/login" title="Logg inn">Logg inn</a></li>
+</ul>  </div>
+  
+  <div class="bottom"></div>
+  
+</div>    </div>
+    <div id="hoved-inner">
+      <div id="logo-left">
+        <a href="/"></a>
+      </div> <!-- /logo-left -->
+      <div id="meny-middle">
+        <div id="sokediv">
+          <form action="/search/apachesolr_search"  accept-charset="UTF-8" method="post" id="search-form" class="search-form">
+<div><div class="form-item">
+ <label>Oppgi nøkkelord: </label>
+ <div class="container-inline"><div class="form-item" id="edit-keys-wrapper">
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="40" value="" class="form-text  apachesolr-autocomplete unprocessed" />
+</div>
+<input type="submit" name="op" id="edit-submit-2" value="Søk"  class="form-submit" />
+</div><input type="hidden" name="apachesolr_search[queryvalues]" id="edit-apachesolr-search-queryvalues" value="a:1:{s:7:&quot;filters&quot;;s:10:&quot;tid:109647&quot;;}"  />
+<input type="hidden" name="apachesolr_search[get]" id="edit-apachesolr-search-get" value="a:0:{}"  />
+<div class="form-item" id="edit-apachesolr-search-retain-filters-wrapper">
+ <label class="option" for="edit-apachesolr-search-retain-filters"><input type="checkbox" name="apachesolr_search[retain-filters]" id="edit-apachesolr-search-retain-filters" value="1"  checked="checked"  class="form-checkbox" /> Retain current filters</label>
+</div>
+
+</div>
+<input type="hidden" name="form_build_id" id="form-a0e5c66f9bba213123c765de6e48c8eb" value="form-a0e5c66f9bba213123c765de6e48c8eb"  />
+<input type="hidden" name="form_id" id="edit-search-form" value="search_form"  />
+
+</div></form>
+        </div>
+      </div> <!-- /meny-middle -->
+      <div id="login-right">
+        <div id="block-uc_ajax_cart-0" class="clear-block block block-uc_ajax_cart">
+
+  
+  <div class="content">
+    <div id="ajaxCartUpdate" class="load-on-view"><p>Laster handlepose...</p></div>  </div>
+  
+  <div class="bottom"></div>
+  
+</div>        <div class="cart-text">Handlepose</div>
+      </div> <!-- /login-right -->
+    </div> <!-- /hoved-inner -->
+  </div> <!-- /hovedmeny -->
+  <div id="search-bar">
+    <div id="menus">
+      <div class="category-dropdown">
+          <span>Se alle kategorier</span>
+          <div id="category-mouseover-info">
+            <div class="arrow"></div>
+                      <div class="kat-sep" style="float:left">
+            <h3>Sakprosa</h3>
+            <ul>
+              <li><a href="/search/apachesolr_search/?filters=tid:110435">Arkitektur og design</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:109838">Familie, livsstil og helse</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:107925">Historie og biografier</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:109927">Hobby, forming og håndarbeid</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:110429">Hus og hage</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:110436">Kunst og kultur</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:109928">Mat og drikke</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:108005">Dokumentar og debatt</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:110195">Reise og reiseskildringer</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:109871">Selvhjelp og selvutvikling</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:110430">Sport, natur og friluftsliv</a></li>
+             
+            </ul>
+            <h3>Skjønnlitteratur</h3>
+            <ul>
+              <li><a href="/search/apachesolr_search/?filters=tid:108053">Romaner</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:110433">Krim og spenning</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:108090">Noveller</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:110434">Lyrikk, essays og drama</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:110034">Tegneserier og grafiske romaner</a></li>
+            </ul>
+            <h3>Barne- og ungdomsbøker</h3>
+            <ul>
+              <li><a href="/search/apachesolr_search/?filters=tid:110220">Barne- og ungdomsbøker</a></li>
+            </ul>
+          </div>
+          <div class="kat-sep" style="float:left">
+            <h3>Fagbøker</h3>
+            <ul>
+              <li><a href="/search/apachesolr_search/?filters=tid:107818">Arkitektur</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:108198">Arkeologi</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:109341">Biologi</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:109647">Data og informatikk</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:108026">Engelsk språkundervisning</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:108212">Filosofi</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:108690">Finans og regnskap</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:109286">Fysikk</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:109399">Geofag og miljøkunnskap</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:109159">Helse- og sosialfag</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:110431">Historie</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:108140">Humanistiske fag</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:107802">Industridesign og grafisk design</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:108836">Jus og kriminologi</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:109321">Kjemi</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:107711">Kunstfag</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:108711">Ledelse og næringsliv</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:107998">Litteratur og litteraturvitenskap</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:109220">Matematikk</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:108369">Medievitenskap</a></li>
+            </ul>
+          </div>
+          <div class="kat-sep " style="float:left; padding-top: 26px;">
+              <ul>
+              <li><a href="/search/apachesolr_search/?filters=tid:109018">Medisin</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:107877">Musikk</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:109219">Naturvitenskap</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:109108">Odontologi</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:108096">Ordbøker, oppslagsbøker og leksika</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:108514">Pedagogikk</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:108481">Psykologi</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:108233">Religion og teologi</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:108745">Salg og markedsføring</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:108361">Samfunnsvitenskapelige fag</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:108437">Sosiologi og sosialantropologi</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:107953">Språk og lingvistikk</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:108572">Statsvitenskap</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:109160">Sykepleie</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:109458">Teknologi- og ingeniørfag</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:109201">Veterinærmedisin</a></li>
+              <li><a href="/search/apachesolr_search/?filters=tid:108660">Økonomi</a></li>
+            </ul>
+          </div>
+          </div>
+      </div>
+      <div id="block-menu-primary-links" class="clear-block block block-menu">
+
+  
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/pensum" title="Pensumlister">Pensumbøker</a></li>
+<li class="leaf"><a href="/student" title="">Student</a></li>
+<li class="leaf"><a href="/ebok?filters=tid%3A5812" title="E-bøker">E-bøker</a></li>
+<li class="leaf"><a href="/pocket" title="">Pocket</a></li>
+<li class="leaf"><a href="/bestselgere" title="">Bestselgere</a></li>
+<li class="leaf"><a href="/tilbud" title="">Tilbud</a></li>
+<li class="leaf last"><a href="/verktoy" title="Verktøy">Verktøy</a></li>
+</ul>  </div>
+  
+  <div class="bottom"></div>
+  
+</div>    </div>
+  </div>
+</div>
+    <div id="main">
+
+      <div id="sidebar">
+
+                  <div id="search-refinement">
+            <div id="block-apachesolr_search-im_vid_28" class="clear-block block block-apachesolr_search">
+
+      <h2>Fagområder</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="expanded-facet first last"><a href="/" class="apachesolr-unclick">Data og informatikk</a><div class="item-list"><ul class="expanded-facet"><li class="collapsed first"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A109671" class="apachesolr-facet">Administrasjons- og forretningssystemer <span class="count">(9538)</span></a></li>
+<li class="collapsed"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A109766" class="apachesolr-facet">Databaser <span class="count">(6275)</span></a></li>
+<li class="collapsed"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A109692" class="apachesolr-facet">Datagrafikk og digitale medier <span class="count">(8812)</span></a></li>
+<li class="collapsed"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A109800" class="apachesolr-facet">Datakommunikasjon og nettverk <span class="count">(7388)</span></a></li>
+<li class="collapsed"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A109792" class="apachesolr-facet">Datasikkerhet <span class="count">(2574)</span></a></li>
+<li class="collapsed"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A109653" class="apachesolr-facet">Digital livsstil <span class="count">(7174)</span></a></li>
+<li class="collapsed"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A109648" class="apachesolr-facet">Etiske, sosiale og juridiske aspekter <span class="count">(26782)</span></a></li>
+<li class="collapsed"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A109814" class="apachesolr-facet">Informatikk <span class="count">(23872)</span></a></li>
+<li class="collapsed"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A109703" class="apachesolr-facet">Maskinvare <span class="count">(5385)</span></a></li>
+<li class="collapsed"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A109716" class="apachesolr-facet">Operativsystemer <span class="count">(4428)</span></a></li>
+<li class="collapsed"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A109738" class="apachesolr-facet">Programmering og utvikling <span class="count">(17064)</span></a></li>
+<li class="collapsed last"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A109786" class="apachesolr-facet">Sertifisering <span class="count">(1654)</span></a></li>
+</ul></div></li>
+</ul></div>  </div>
+  
+  <div class="bottom"></div>
+  
+</div><div id="block-apachesolr_search-im_vid_3" class="clear-block block block-apachesolr_search">
+
+      <h2>Format</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27643" class="apachesolr-facet">Bok med DVD/CD-ROM <span class="count">(3515)</span></a></li>
+<li><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27636" class="apachesolr-facet">Bok <span class="count">(333)</span></a></li>
+<li><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A3477" class="apachesolr-facet">CD <span class="count">(29)</span></a></li>
+<li><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27664" class="apachesolr-facet">E-bok <span class="count">(1161)</span></a></li>
+<li><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27622" class="apachesolr-facet">Heftet (myke permer) <span class="count">(74481)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27628" class="apachesolr-facet">Innbundet (stive permer) <span class="count">(15793)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A28422" class="apachesolr-facet">Lydfil med spiller <span class="count">(16)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27761" class="apachesolr-facet">Plakat <span class="count">(7)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A4022" class="apachesolr-facet">Spiralrygg <span class="count">(1340)</span></a></li>
+<li class="apachesolr-hidden-facet last"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27856" class="apachesolr-facet">Veggplansje <span class="count">(16)</span></a></li>
+</ul></div>  </div>
+  
+  <div class="bottom"></div>
+  
+</div><div id="block-apachesolr_search-im_vid_2" class="clear-block block block-apachesolr_search">
+
+      <h2>Språk</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A51688" class="apachesolr-facet">Annet språk <span class="count">(1)</span></a></li>
+<li><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27458" class="apachesolr-facet">Annet <span class="count">(41)</span></a></li>
+<li><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A3502" class="apachesolr-facet">Arabisk <span class="count">(3)</span></a></li>
+<li><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A3494" class="apachesolr-facet">Bokmål <span class="count">(198)</span></a></li>
+<li><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A3524" class="apachesolr-facet">Dansk <span class="count">(33)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A3473" class="apachesolr-facet">Engelsk <span class="count">(92124)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A3461" class="apachesolr-facet">English <span class="count">(1)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A3484" class="apachesolr-facet">Flerspråklig <span class="count">(3)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A3506" class="apachesolr-facet">Fransk <span class="count">(394)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A3530" class="apachesolr-facet">Italiensk <span class="count">(69)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A3651" class="apachesolr-facet">Japansk <span class="count">(9)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A30358" class="apachesolr-facet">Katalansk <span class="count">(1)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A3612" class="apachesolr-facet">Kinesisk <span class="count">(6)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A3676" class="apachesolr-facet">Koreansk <span class="count">(1)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A64442" class="apachesolr-facet">Kreolsk <span class="count">(2)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A38514" class="apachesolr-facet">Kroatisk <span class="count">(1)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A35285" class="apachesolr-facet">Litauisk <span class="count">(1)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A28151" class="apachesolr-facet">Nederlandsk <span class="count">(25)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A5825" class="apachesolr-facet">Norsk <span class="count">(2)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A3495" class="apachesolr-facet">Nynorsk <span class="count">(4)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A3658" class="apachesolr-facet">Polsk <span class="count">(2)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A3731" class="apachesolr-facet">Portugisisk <span class="count">(21)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A32014" class="apachesolr-facet">Rumensk <span class="count">(1)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A3498" class="apachesolr-facet">Russisk <span class="count">(363)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A3553" class="apachesolr-facet">Spansk <span class="count">(453)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A3526" class="apachesolr-facet">Svensk <span class="count">(4)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A3497" class="apachesolr-facet">Tysk <span class="count">(2462)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A37122" class="apachesolr-facet">Ungarsk <span class="count">(2)</span></a></li>
+<li class="apachesolr-hidden-facet last"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27470" class="apachesolr-facet">Walisisk <span class="count">(7)</span></a></li>
+</ul></div>  </div>
+  
+  <div class="bottom"></div>
+  
+</div><div id="block-apachesolr_search-im_vid_19" class="clear-block block block-apachesolr_search">
+
+      <h2>År</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27627" class="apachesolr-facet">1999 – 1990 <span class="count">(10379)</span></a></li>
+<li><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27518" class="apachesolr-facet">2000 <span class="count">(2074)</span></a></li>
+<li><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27511" class="apachesolr-facet">2001 <span class="count">(2604)</span></a></li>
+<li><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27505" class="apachesolr-facet">2002 <span class="count">(2803)</span></a></li>
+<li><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27506" class="apachesolr-facet">2003 <span class="count">(3165)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27517" class="apachesolr-facet">2004 <span class="count">(3027)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27508" class="apachesolr-facet">2005 <span class="count">(3147)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27513" class="apachesolr-facet">2006 <span class="count">(3304)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27512" class="apachesolr-facet">2007 <span class="count">(3972)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27509" class="apachesolr-facet">2008 <span class="count">(4102)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27507" class="apachesolr-facet">2009 <span class="count">(4660)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27504" class="apachesolr-facet">2010 <span class="count">(19370)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A64720" class="apachesolr-facet">2011 <span class="count">(16349)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A100016" class="apachesolr-facet">2012 <span class="count">(12885)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A162576" class="apachesolr-facet">2013 <span class="count">(3246)</span></a></li>
+<li class="apachesolr-hidden-facet"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27626" class="apachesolr-facet">Før 1990 <span class="count">(1582)</span></a></li>
+<li class="apachesolr-hidden-facet last"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A27623" class="apachesolr-facet">Kommende bøker <span class="count">(22)</span></a></li>
+</ul></div>  </div>
+  
+  <div class="bottom"></div>
+  
+</div><div id="block-apachesolr_search-im_vid_21" class="clear-block block block-apachesolr_search">
+
+      <h2>Filformat</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A70888" class="apachesolr-facet">EPUB <span class="count">(80)</span></a></li>
+<li class="last"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A70885" class="apachesolr-facet">Pdf <span class="count">(978)</span></a></li>
+</ul></div>  </div>
+  
+  <div class="bottom"></div>
+  
+</div><div id="block-apachesolr_search-im_vid_22" class="clear-block block block-apachesolr_search">
+
+      <h2>Kopibeskyttelse</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first last"><a href="/search/apachesolr_search/?filters=tid%3A109647%20tid%3A70889" class="apachesolr-facet">AdobeContentServer4Drm <span class="count">(1161)</span></a></li>
+</ul></div>  </div>
+  
+  <div class="bottom"></div>
+  
+</div>          </div>
+        				        <div class="sortable"></div>              </div>
+
+      <div id="content">
+        <div class="breadcrumb">Du er her: <a href="/">Forsiden</a><span></span>Data og informatikk</div>
+        
+        
+        
+        
+        <div class="sortable"></div>
+                  <div id="apachesolr-search-results">
+            <h1>Søk</h1>            <div class="apachesolr-summary">
+              <div id="block-apachesolr-sort" class="clear-block block block-apachesolr">
+
+  
+  <div class="content">
+    <ul id="search-sorting"><li id="current-sort"><ul id="sort-options"><li><a href="/search/apachesolr_search/?filters=tid%3A109647" class="active">Relevans</a></li><li><a href="/search/apachesolr_search/?filters=tid%3A109647&amp;solrsort=sort_title%20asc">Tittel</a></li><li><a href="/search/apachesolr_search/?filters=tid%3A109647&amp;solrsort=tis_sell_price%20asc">Salgspris</a></li><li><a href="/search/apachesolr_search/?filters=tid%3A109647&amp;solrsort=tis_sold%20desc">Bestselger</a></li><li><a href="/search/apachesolr_search/?filters=tid%3A109647&amp;solrsort=tis_pubyear%20desc">Utgivelsesår</a></li></ul></li></ul><span>Sorter søkeresultater etter:</span>  </div>
+  
+  <div class="bottom"></div>
+  
+</div>              <div class="current-search">Viser 1 - 15 av 96692 resultater</div>              <div class="clear-both"></div>
+            </div>
+            <div class="apachesolr-content">
+        
+        <dl class="search-results apachesolr_search-results">
+
+  
+<div id="node-8704328" class="books-teaser">
+
+  <!-- Bilde -->
+  <div class="image">
+        <a href="/software-engineering/ian-sommerville/9780137053469" title="Software Engineering">
+      <img src="http://www.akademika.no/sites/default/files/imagecache/liten-forside/images/978/0/1/3/7/0/5/9780137053469_0.jpg" alt="Software Engineering - 2010 - (9780137053469)" title="Software Engineering - 2010 - (9780137053469)"  class="imagecache imagecache-liten-forside" width="100" height="133" />    </a>
+    <div class="ribbon ribbon-small">
+      <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">618,-</span>
+</div>    </div>
+  </div>
+
+  <!-- Info -->
+  <div class="info">
+    
+    <!-- Topp -->
+    <div class="top">
+      <div class="title">
+        <a href="/software-engineering/ian-sommerville/9780137053469" title="Software Engineering">Software Engineering</a> 
+        (Bok med DVD/CD-ROM - 2010 - Engelsk)      </div>
+    </div>
+    
+    <!-- Midt -->
+    <div class="middle">
+      <div class="author">
+        <span class="author">av <a href="/node/428475">Ian Sommerville</a></span>       </div>
+      <div class="price" style="font-weight:bold">
+        <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">618,-</span>
+</div>      </div>
+    </div>
+    
+    <!-- Bunn -->
+    <div class="buy ">
+      <div class="add-to-cart"><form action="/software-engineering/ian-sommerville/9780137053469"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-8704328" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty" value="1"  />
+<input type="submit" name="op" id="edit-submit-8704328" value="Legg i handlekurv"  class="form-submit node-add-to-cart ajax-cart-submit-form-button akav3-ajax-cart" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Kjopsknapp&#039;, &#039;&#039;, &#039;Software Engineering&#039;, &#039;9780137053469&#039;]);" />
+<input type="hidden" name="form_build_id" id="form-b0481589678a40231c5e3476dfc2aa55" value="form-b0481589678a40231c5e3476dfc2aa55"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-8704328" value="uc_product_add_to_cart_form_8704328"  />
+<input type="hidden" name="product-nid" id="edit-product-nid" value="8704328"  />
+
+</div></form>
+</div>    </div>
+  </div>
+</div>
+<div id="node-7647187" class="books-teaser">
+
+  <!-- Bilde -->
+  <div class="image">
+        <a href="/database-systems/shamkant-b-navathe/ramez-elmasri/9780132144988" title="Database Systems">
+      <img src="http://www.akademika.no/sites/default/files/imagecache/liten-forside/images/978/0/1/3/2/1/4/9780132144988_0.jpg" alt="Database Systems - 2010 - (9780132144988)" title="Database Systems - 2010 - (9780132144988)"  class="imagecache imagecache-liten-forside" width="100" height="133" />    </a>
+    <div class="ribbon ribbon-small">
+      <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">664,-</span>
+</div>    </div>
+  </div>
+
+  <!-- Info -->
+  <div class="info">
+    
+    <!-- Topp -->
+    <div class="top">
+      <div class="title">
+        <a href="/database-systems/shamkant-b-navathe/ramez-elmasri/9780132144988" title="Database Systems">Database Systems</a> 
+        (Heftet (myke permer) - 2010 - Engelsk)      </div>
+    </div>
+    
+    <!-- Midt -->
+    <div class="middle">
+      <div class="author">
+        <span class="author">av <a href="/node/1389425">Ramez Elmasri</a> - <a href="/node/1389071">Shamkant B. Navathe</a></span>       </div>
+      <div class="price" style="font-weight:bold">
+        <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">664,-</span>
+</div>      </div>
+    </div>
+    
+    <!-- Bunn -->
+    <div class="buy ">
+      <div class="add-to-cart"><form action="/database-systems/shamkant-b-navathe/ramez-elmasri/9780132144988"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-7647187" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-1" value="1"  />
+<input type="submit" name="op" id="edit-submit-7647187" value="Legg i handlekurv"  class="form-submit node-add-to-cart ajax-cart-submit-form-button akav3-ajax-cart" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Kjopsknapp&#039;, &#039;&#039;, &#039;Database Systems&#039;, &#039;9780132144988&#039;]);" />
+<input type="hidden" name="form_build_id" id="form-7a40faf6a43d1618a52129bd3595e491" value="form-7a40faf6a43d1618a52129bd3595e491"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-7647187" value="uc_product_add_to_cart_form_7647187"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-1" value="7647187"  />
+
+</div></form>
+</div>    </div>
+  </div>
+</div>
+<div id="node-8876180" class="books-teaser">
+
+  <!-- Bilde -->
+  <div class="image">
+        <a href="/computer-networking-a-top-down-approach/keith-w-ross/james-f-kurose/9780273768968" title="Computer Networking: A Top-down Approach">
+      <img src="http://www.akademika.no/sites/default/files/imagecache/liten-forside/images/978/0/2/7/3/7/6/9780273768968_0.jpg" alt="Computer Networking: A Top-down Approach - 2012 - (9780273768968)" title="Computer Networking: A Top-down Approach - 2012 - (9780273768968)"  class="imagecache imagecache-liten-forside" width="100" height="133" />    </a>
+    <div class="ribbon ribbon-small">
+      <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">543,-</span>
+</div>    </div>
+  </div>
+
+  <!-- Info -->
+  <div class="info">
+    
+    <!-- Topp -->
+    <div class="top">
+      <div class="title">
+        <a href="/computer-networking-a-top-down-approach/keith-w-ross/james-f-kurose/9780273768968" title="Computer Networking: A Top-down Approach">Computer Networking: A Top-down Approach</a> 
+        (Bok med DVD/CD-ROM - 2012 - Engelsk)      </div>
+    </div>
+    
+    <!-- Midt -->
+    <div class="middle">
+      <div class="author">
+        <span class="author">av <a href="/node/7858600">James F. Kurose</a> - <a href="/node/428733">Keith W. Ross</a></span>       </div>
+      <div class="price" style="font-weight:bold">
+        <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">543,-</span>
+</div>      </div>
+    </div>
+    
+    <!-- Bunn -->
+    <div class="buy ">
+      <div class="add-to-cart"><form action="/computer-networking-a-top-down-approach/keith-w-ross/james-f-kurose/9780273768968"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-8876180" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-2" value="1"  />
+<input type="submit" name="op" id="edit-submit-8876180" value="Legg i handlekurv"  class="form-submit node-add-to-cart ajax-cart-submit-form-button akav3-ajax-cart" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Kjopsknapp&#039;, &#039;&#039;, &#039;Computer Networking: A Top-down Approach&#039;, &#039;9780273768968&#039;]);" />
+<input type="hidden" name="form_build_id" id="form-6696e7d2a45edfd29ddd9ad13a17d229" value="form-6696e7d2a45edfd29ddd9ad13a17d229"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-8876180" value="uc_product_add_to_cart_form_8876180"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-2" value="8876180"  />
+
+</div></form>
+</div>    </div>
+  </div>
+</div>
+<div id="node-4900714" class="books-teaser">
+
+  <!-- Bilde -->
+  <div class="image">
+        <a href="/introduction-to-algorithms/ronald-l-rivest/clifford-stein/thomas-h-cormen/9780262533058" title="Introduction to Algorithms">
+      <img src="http://www.akademika.no/sites/default/files/imagecache/liten-forside/images/978/0/2/6/2/5/3/9780262533058.jpg" alt="Introduction to Algorithms - 2009 - (9780262533058)" title="Introduction to Algorithms - 2009 - (9780262533058)"  class="imagecache imagecache-liten-forside" width="100" height="133" />    </a>
+    <div class="ribbon ribbon-small">
+      <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">539,-</span>
+</div>    </div>
+  </div>
+
+  <!-- Info -->
+  <div class="info">
+    
+    <!-- Topp -->
+    <div class="top">
+      <div class="title">
+        <a href="/introduction-to-algorithms/ronald-l-rivest/clifford-stein/thomas-h-cormen/9780262533058" title="Introduction to Algorithms">Introduction to Algorithms</a> 
+        (Heftet (myke permer) - 2009 - Engelsk)      </div>
+    </div>
+    
+    <!-- Midt -->
+    <div class="middle">
+      <div class="author">
+        <span class="author">av <a href="/node/3775927">Charles E. Leiserson</a> - <a href="/node/3775926">Thomas H. Cormen</a> - <a href="/node/2754727">Clifford Stein</a> - <a href="/node/2674599">Ronald L. Rivest</a></span>       </div>
+      <div class="price" style="font-weight:bold">
+        <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">539,-</span>
+</div>      </div>
+    </div>
+    
+    <!-- Bunn -->
+    <div class="buy ">
+      <div class="add-to-cart"><form action="/introduction-to-algorithms/ronald-l-rivest/clifford-stein/thomas-h-cormen/9780262533058"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-4900714" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-3" value="1"  />
+<input type="submit" name="op" id="edit-submit-4900714" value="Legg i handlekurv"  class="form-submit node-add-to-cart ajax-cart-submit-form-button akav3-ajax-cart" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Kjopsknapp&#039;, &#039;&#039;, &#039;Introduction to Algorithms&#039;, &#039;9780262533058&#039;]);" />
+<input type="hidden" name="form_build_id" id="form-e238bfb6f4d589471fd0a575685df334" value="form-e238bfb6f4d589471fd0a575685df334"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-4900714" value="uc_product_add_to_cart_form_4900714"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-3" value="4900714"  />
+
+</div></form>
+</div>    </div>
+  </div>
+</div>
+<div id="node-10273976" class="books-teaser">
+
+  <!-- Bilde -->
+  <div class="image">
+        <a href="/ibm-spssamos/christophersen-knut-andreas/9788232101153" title="IBM SPSS / AMOS">
+      <img src="http://www.akademika.no/sites/default/files/imagecache/liten-forside/images/978/8/2/3/2/1/0/9788232101153_0.jpg" alt="IBM SPSS / AMOS - 2012 - (9788232101153)" title="IBM SPSS / AMOS - 2012 - (9788232101153)"  class="imagecache imagecache-liten-forside" width="100" height="133" />    </a>
+    <div class="ribbon ribbon-small">
+      <div class="ribbon-price"><span>266,-</span></div>    </div>
+  </div>
+
+  <!-- Info -->
+  <div class="info">
+    
+    <!-- Topp -->
+    <div class="top">
+      <div class="title">
+        <a href="/ibm-spssamos/christophersen-knut-andreas/9788232101153" title="IBM SPSS / AMOS">IBM SPSS / AMOS: databehandling og statistisk analyse med SPSS</a> 
+        (Heftet (myke permer) - 2012 - Bokmål)      </div>
+    </div>
+    
+    <!-- Midt -->
+    <div class="middle">
+      <div class="author">
+        <span class="author">av <a href="/node/188952">Christophersen, Knut-Andreas</a></span>       </div>
+      <div class="price" style="font-weight:bold">
+        <div class="sell-price"><div class="tilbud">Nettpris: 266,-</div><div class="rabatt">Ordinær pris 329,-</div></div>      </div>
+    </div>
+    
+    <!-- Bunn -->
+    <div class="buy ">
+      <div class="add-to-cart"><form action="/ibm-spssamos/christophersen-knut-andreas/9788232101153"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-10273976" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-4" value="1"  />
+<input type="submit" name="op" id="edit-submit-10273976" value="Legg i handlekurv"  class="form-submit node-add-to-cart ajax-cart-submit-form-button akav3-ajax-cart" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Kjopsknapp&#039;, &#039;&#039;, &#039;IBM SPSS / AMOS&#039;, &#039;9788232101153&#039;]);" />
+<input type="hidden" name="form_build_id" id="form-c1e9bdef7ded4b49f758c8bc0f0a624d" value="form-c1e9bdef7ded4b49f758c8bc0f0a624d"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-10273976" value="uc_product_add_to_cart_form_10273976"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-4" value="10273976"  />
+
+</div></form>
+</div>    </div>
+  </div>
+</div>
+<div id="node-6907659" class="books-teaser">
+
+  <!-- Bilde -->
+  <div class="image">
+        <a href="/spss-survival-manual/julie-pallant/9780335242399" title="SPSS Survival Manual">
+      <img src="http://www.akademika.no/sites/default/files/imagecache/liten-forside/images/978/0/3/3/5/2/4/9780335242399.jpg" alt="SPSS Survival Manual - 2010 - (9780335242399)" title="SPSS Survival Manual - 2010 - (9780335242399)"  class="imagecache imagecache-liten-forside" width="100" height="133" />    </a>
+    <div class="ribbon ribbon-small">
+      <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">396,-</span>
+</div>    </div>
+  </div>
+
+  <!-- Info -->
+  <div class="info">
+    
+    <!-- Topp -->
+    <div class="top">
+      <div class="title">
+        <a href="/spss-survival-manual/julie-pallant/9780335242399" title="SPSS Survival Manual">SPSS Survival Manual: A Step by Step Guide to Data Analysis Using SPSS</a> 
+        (Heftet (myke permer) - 2010 - Engelsk)      </div>
+    </div>
+    
+    <!-- Midt -->
+    <div class="middle">
+      <div class="author">
+        <span class="author">av <a href="/node/429768">Julie Pallant</a></span>       </div>
+      <div class="price" style="font-weight:bold">
+        <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">396,-</span>
+</div>      </div>
+    </div>
+    
+    <!-- Bunn -->
+    <div class="buy ">
+      <div class="add-to-cart"><form action="/spss-survival-manual/julie-pallant/9780335242399"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-6907659" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-5" value="1"  />
+<input type="submit" name="op" id="edit-submit-6907659" value="Legg i handlekurv"  class="form-submit node-add-to-cart ajax-cart-submit-form-button akav3-ajax-cart" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Kjopsknapp&#039;, &#039;&#039;, &#039;SPSS Survival Manual&#039;, &#039;9780335242399&#039;]);" />
+<input type="hidden" name="form_build_id" id="form-f4d792e965a448b53c651ef4e039939f" value="form-f4d792e965a448b53c651ef4e039939f"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-6907659" value="uc_product_add_to_cart_form_6907659"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-5" value="6907659"  />
+
+</div></form>
+</div>    </div>
+  </div>
+</div>
+<div id="node-9149722" class="books-teaser">
+
+  <!-- Bilde -->
+  <div class="image">
+        <a href="/software-architecture-in-practice/paul-clements/len-bass/rick-kazman/9780321815736" title="Software Architecture in Practice">
+      <img src="http://www.akademika.no/sites/default/files/imagecache/liten-forside/images/978/0/3/2/1/8/1/9780321815736.jpg" alt="Software Architecture in Practice - 2012 - (9780321815736)" title="Software Architecture in Practice - 2012 - (9780321815736)"  class="imagecache imagecache-liten-forside" width="100" height="133" />    </a>
+    <div class="ribbon ribbon-small">
+      <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">520,-</span>
+</div>    </div>
+  </div>
+
+  <!-- Info -->
+  <div class="info">
+    
+    <!-- Topp -->
+    <div class="top">
+      <div class="title">
+        <a href="/software-architecture-in-practice/paul-clements/len-bass/rick-kazman/9780321815736" title="Software Architecture in Practice">Software Architecture in Practice</a> 
+        (Innbundet (stive permer) - 2012 - Engelsk)      </div>
+    </div>
+    
+    <!-- Midt -->
+    <div class="middle">
+      <div class="author">
+        <span class="author">av <a href="/node/1393795">Rick Kazman</a> - <a href="/node/425781">Len Bass</a> - <a href="/node/425779">Paul Clements</a></span>       </div>
+      <div class="price" style="font-weight:bold">
+        <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">520,-</span>
+</div>      </div>
+    </div>
+    
+    <!-- Bunn -->
+    <div class="buy ">
+      <div class="add-to-cart"><form action="/software-architecture-in-practice/paul-clements/len-bass/rick-kazman/9780321815736"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-9149722" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-6" value="1"  />
+<input type="submit" name="op" id="edit-submit-9149722" value="Legg i handlekurv"  class="form-submit node-add-to-cart ajax-cart-submit-form-button akav3-ajax-cart" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Kjopsknapp&#039;, &#039;&#039;, &#039;Software Architecture in Practice&#039;, &#039;9780321815736&#039;]);" />
+<input type="hidden" name="form_build_id" id="form-8cec5c066233e64f84963ab0590a56bd" value="form-8cec5c066233e64f84963ab0590a56bd"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-9149722" value="uc_product_add_to_cart_form_9149722"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-6" value="9149722"  />
+
+</div></form>
+</div>    </div>
+  </div>
+</div>
+<div id="node-908907" class="books-teaser">
+
+  <!-- Bilde -->
+  <div class="image">
+        <a href="/innfoering-i-datakommunikasjon/skundberg-olav/klefstad-bjoern/hallsteinsen-oeyvind/9788205384149" title="Innføring i datakommunikasjon">
+      <img src="http://www.akademika.no/sites/default/files/imagecache/liten-forside/images/978/8/2/0/5/3/8/9788205384149.jpg" alt="Innføring i datakommunikasjon - 2008 - (9788205384149)" title="Innføring i datakommunikasjon - 2008 - (9788205384149)"  class="imagecache imagecache-liten-forside" width="100" height="133" />    </a>
+    <div class="ribbon ribbon-small">
+      <div class="ribbon-price"><span>380,-</span></div>    </div>
+  </div>
+
+  <!-- Info -->
+  <div class="info">
+    
+    <!-- Topp -->
+    <div class="top">
+      <div class="title">
+        <a href="/innfoering-i-datakommunikasjon/skundberg-olav/klefstad-bjoern/hallsteinsen-oeyvind/9788205384149" title="Innføring i datakommunikasjon">Innføring i datakommunikasjon</a> 
+        (Heftet (myke permer) - 2008 - Bokmål)      </div>
+    </div>
+    
+    <!-- Midt -->
+    <div class="middle">
+      <div class="author">
+        <span class="author">av <a href="/node/376260">Hallsteinsen, Øyvind</a> - <a href="/node/376259">Klefstad, Bjørn</a> - <a href="/node/376258">Skundberg, Olav</a></span>       </div>
+      <div class="price" style="font-weight:bold">
+        <div class="sell-price"><div class="tilbud">Nettpris: 380,-</div><div class="rabatt">Ordinær pris 469,-</div></div>      </div>
+    </div>
+    
+    <!-- Bunn -->
+    <div class="buy ">
+      <div class="add-to-cart"><form action="/innfoering-i-datakommunikasjon/skundberg-olav/klefstad-bjoern/hallsteinsen-oeyvind/9788205384149"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-908907" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-7" value="1"  />
+<input type="submit" name="op" id="edit-submit-908907" value="Legg i handlekurv"  class="form-submit node-add-to-cart ajax-cart-submit-form-button akav3-ajax-cart" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Kjopsknapp&#039;, &#039;&#039;, &#039;Innføring i datakommunikasjon&#039;, &#039;9788205384149&#039;]);" />
+<input type="hidden" name="form_build_id" id="form-1200162c3891444d439fc67791432107" value="form-1200162c3891444d439fc67791432107"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-908907" value="uc_product_add_to_cart_form_908907"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-7" value="908907"  />
+
+</div></form>
+</div>    </div>
+  </div>
+</div>
+<div id="node-5532046" class="books-teaser">
+
+  <!-- Bilde -->
+  <div class="image">
+        <a href="/artificial-intelligence/peter-norvig/stuart-russell/9780132071482" title="Artificial Intelligence">
+      <img src="http://www.akademika.no/sites/default/files/imagecache/liten-forside/images/978/0/1/3/2/0/7/9780132071482_1.jpg" alt="Artificial Intelligence - 2010 - (9780132071482)" title="Artificial Intelligence - 2010 - (9780132071482)"  class="imagecache imagecache-liten-forside" width="100" height="133" />    </a>
+    <div class="ribbon ribbon-small">
+      <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">687,-</span>
+</div>    </div>
+  </div>
+
+  <!-- Info -->
+  <div class="info">
+    
+    <!-- Topp -->
+    <div class="top">
+      <div class="title">
+        <a href="/artificial-intelligence/peter-norvig/stuart-russell/9780132071482" title="Artificial Intelligence">Artificial Intelligence: A Modern Approach</a> 
+        (Heftet (myke permer) - 2010 - Engelsk)      </div>
+    </div>
+    
+    <!-- Midt -->
+    <div class="middle">
+      <div class="author">
+        <span class="author">av <a href="/node/1603171">Stuart Russell</a> - <a href="/node/1393213">Peter Norvig</a></span>       </div>
+      <div class="price" style="font-weight:bold">
+        <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">687,-</span>
+</div>      </div>
+    </div>
+    
+    <!-- Bunn -->
+    <div class="buy ">
+      <div class="add-to-cart"><form action="/artificial-intelligence/peter-norvig/stuart-russell/9780132071482"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-5532046" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-8" value="1"  />
+<input type="submit" name="op" id="edit-submit-5532046" value="Legg i handlekurv"  class="form-submit node-add-to-cart ajax-cart-submit-form-button akav3-ajax-cart" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Kjopsknapp&#039;, &#039;&#039;, &#039;Artificial Intelligence&#039;, &#039;9780132071482&#039;]);" />
+<input type="hidden" name="form_build_id" id="form-ce1df6f0b2a7c1d9ab6274e01280eca2" value="form-ce1df6f0b2a7c1d9ab6274e01280eca2"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-5532046" value="uc_product_add_to_cart_form_5532046"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-8" value="5532046"  />
+
+</div></form>
+</div>    </div>
+  </div>
+</div>
+<div id="node-4056339" class="books-teaser">
+
+  <!-- Bilde -->
+  <div class="image">
+        <a href="/algorithmics-for-hard-problems/juraj-hromkovic/9783540441342" title="Algorithmics for Hard Problems">
+      <img src="http://www.akademika.no/sites/default/files/imagecache/liten-forside/images/978/3/5/4/0/4/4/9783540441342_0.jpg" alt="Algorithmics for Hard Problems - 2002 - (9783540441342)" title="Algorithmics for Hard Problems - 2002 - (9783540441342)"  class="imagecache imagecache-liten-forside" width="100" height="133" />    </a>
+    <div class="ribbon ribbon-small">
+      <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">510,-</span>
+</div>    </div>
+  </div>
+
+  <!-- Info -->
+  <div class="info">
+    
+    <!-- Topp -->
+    <div class="top">
+      <div class="title">
+        <a href="/algorithmics-for-hard-problems/juraj-hromkovic/9783540441342" title="Algorithmics for Hard Problems">Algorithmics for Hard Problems: Introduction to Combinatorial Optimization, Randomization, Approximation, and Heuristics</a> 
+        (Innbundet (stive permer) - 2002 - Engelsk)      </div>
+    </div>
+    
+    <!-- Midt -->
+    <div class="middle">
+      <div class="author">
+        <span class="author">av <a href="/node/2162134">Juraj Hromkovic</a></span>       </div>
+      <div class="price" style="font-weight:bold">
+        <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">510,-</span>
+</div>      </div>
+    </div>
+    
+    <!-- Bunn -->
+    <div class="buy ">
+      <div class="add-to-cart"><form action="/algorithmics-for-hard-problems/juraj-hromkovic/9783540441342"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-4056339" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-9" value="1"  />
+<input type="submit" name="op" id="edit-submit-4056339" value="Legg i handlekurv"  class="form-submit node-add-to-cart ajax-cart-submit-form-button akav3-ajax-cart" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Kjopsknapp&#039;, &#039;&#039;, &#039;Algorithmics for Hard Problems&#039;, &#039;9783540441342&#039;]);" />
+<input type="hidden" name="form_build_id" id="form-66660427c902111b9dd73b7e661c8cc7" value="form-66660427c902111b9dd73b7e661c8cc7"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-4056339" value="uc_product_add_to_cart_form_4056339"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-9" value="4056339"  />
+
+</div></form>
+</div>    </div>
+  </div>
+</div>
+<div id="node-7780834" class="books-teaser">
+
+  <!-- Bilde -->
+  <div class="image">
+        <a href="/rett-paa-java/maus-arne/lingjaerde-ole-christian/hegna-knut/9788215018522" title="Rett på Java">
+      <img src="http://www.akademika.no/sites/default/files/imagecache/liten-forside/images/978/8/2/1/5/0/1/9788215018522.jpg" alt="Rett på Java - 2011 - (9788215018522)" title="Rett på Java - 2011 - (9788215018522)"  class="imagecache imagecache-liten-forside" width="100" height="133" />    </a>
+    <div class="ribbon ribbon-small">
+      <div class="ribbon-price"><span>380,-</span></div>    </div>
+  </div>
+
+  <!-- Info -->
+  <div class="info">
+    
+    <!-- Topp -->
+    <div class="top">
+      <div class="title">
+        <a href="/rett-paa-java/maus-arne/lingjaerde-ole-christian/hegna-knut/9788215018522" title="Rett på Java">Rett på Java: innføring i objektorientert programmering</a> 
+        (Heftet (myke permer) - 2011 - Bokmål)      </div>
+    </div>
+    
+    <!-- Midt -->
+    <div class="middle">
+      <div class="author">
+        <span class="author">av <a href="/node/357378">Brunland, Anders</a> - <a href="/node/357377">Hegna, Knut</a> - <a href="/node/357376">Lingjærde, Ole Christian</a> - <a href="/node/140525">Maus, Arne</a></span>       </div>
+      <div class="price" style="font-weight:bold">
+        <div class="sell-price"><div class="tilbud">Nettpris: 380,-</div><div class="rabatt">Ordinær pris 469,-</div></div>      </div>
+    </div>
+    
+    <!-- Bunn -->
+    <div class="buy ">
+      <div class="add-to-cart"><form action="/rett-paa-java/maus-arne/lingjaerde-ole-christian/hegna-knut/9788215018522"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-7780834" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-10" value="1"  />
+<input type="submit" name="op" id="edit-submit-7780834" value="Legg i handlekurv"  class="form-submit node-add-to-cart ajax-cart-submit-form-button akav3-ajax-cart" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Kjopsknapp&#039;, &#039;&#039;, &#039;Rett på Java&#039;, &#039;9788215018522&#039;]);" />
+<input type="hidden" name="form_build_id" id="form-68915f748b68ea661c2463da63c143dd" value="form-68915f748b68ea661c2463da63c143dd"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-7780834" value="uc_product_add_to_cart_form_7780834"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-10" value="7780834"  />
+
+</div></form>
+</div>    </div>
+  </div>
+</div>
+<div id="node-8878040" class="books-teaser">
+
+  <!-- Bilde -->
+  <div class="image">
+        <a href="/absolute-c%20%20/walter-j-savitch/9780273769323" title="Absolute C++">
+      <img src="http://www.akademika.no/sites/default/files/imagecache/liten-forside/images/978/0/2/7/3/7/6/9780273769323_0.jpg" alt="Absolute C++ - 2012 - (9780273769323)" title="Absolute C++ - 2012 - (9780273769323)"  class="imagecache imagecache-liten-forside" width="100" height="133" />    </a>
+    <div class="ribbon ribbon-small">
+      <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">607,-</span>
+</div>    </div>
+  </div>
+
+  <!-- Info -->
+  <div class="info">
+    
+    <!-- Topp -->
+    <div class="top">
+      <div class="title">
+        <a href="/absolute-c%20%20/walter-j-savitch/9780273769323" title="Absolute C++">Absolute C++</a> 
+        (Bok med DVD/CD-ROM - 2012 - Engelsk)      </div>
+    </div>
+    
+    <!-- Midt -->
+    <div class="middle">
+      <div class="author">
+        <span class="author">av <a href="/node/422008">Walter J. Savitch</a></span>       </div>
+      <div class="price" style="font-weight:bold">
+        <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">607,-</span>
+</div>      </div>
+    </div>
+    
+    <!-- Bunn -->
+    <div class="buy ">
+      <div class="add-to-cart"><form action="/absolute-c%20%20/walter-j-savitch/9780273769323"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-8878040" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-11" value="1"  />
+<input type="submit" name="op" id="edit-submit-8878040" value="Legg i handlekurv"  class="form-submit node-add-to-cart ajax-cart-submit-form-button akav3-ajax-cart" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Kjopsknapp&#039;, &#039;&#039;, &#039;Absolute C++&#039;, &#039;9780273769323&#039;]);" />
+<input type="hidden" name="form_build_id" id="form-f0722e08d8c2d935bdc26f63f1afaf76" value="form-f0722e08d8c2d935bdc26f63f1afaf76"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-8878040" value="uc_product_add_to_cart_form_8878040"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-11" value="8878040"  />
+
+</div></form>
+</div>    </div>
+  </div>
+</div>
+<div id="node-5393595" class="books-teaser">
+
+  <!-- Bilde -->
+  <div class="image">
+        <a href="/c-programming-language/brian-w-kernighan/dennis-m-ritchie/ritchie-dennis/9780131103627" title="C Programming Language">
+      <img src="http://www.akademika.no/sites/default/files/imagecache/liten-forside/images/978/0/1/3/1/1/0/9780131103627_0.jpg" alt="C Programming Language - 1988 - (9780131103627)" title="C Programming Language - 1988 - (9780131103627)"  class="imagecache imagecache-liten-forside" width="100" height="133" />    </a>
+    <div class="ribbon ribbon-small">
+      <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">497,-</span>
+</div>    </div>
+  </div>
+
+  <!-- Info -->
+  <div class="info">
+    
+    <!-- Topp -->
+    <div class="top">
+      <div class="title">
+        <a href="/c-programming-language/brian-w-kernighan/dennis-m-ritchie/ritchie-dennis/9780131103627" title="C Programming Language">C Programming Language</a> 
+        (Heftet (myke permer) - 1988 - Engelsk)      </div>
+    </div>
+    
+    <!-- Midt -->
+    <div class="middle">
+      <div class="author">
+        <span class="author">av <a href="/node/8519255">Kernighan, Brian W.</a> - <a href="/node/8519254">Ritchie, Dennis</a> - <a href="/node/1387921">Dennis M. Ritchie</a> - <a href="/node/1387920">Brian W. Kernighan</a></span>       </div>
+      <div class="price" style="font-weight:bold">
+        <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">497,-</span>
+</div>      </div>
+    </div>
+    
+    <!-- Bunn -->
+    <div class="buy ">
+      <div class="add-to-cart"><form action="/c-programming-language/brian-w-kernighan/dennis-m-ritchie/ritchie-dennis/9780131103627"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-5393595" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-12" value="1"  />
+<input type="submit" name="op" id="edit-submit-5393595" value="Legg i handlekurv"  class="form-submit node-add-to-cart ajax-cart-submit-form-button akav3-ajax-cart" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Kjopsknapp&#039;, &#039;&#039;, &#039;C Programming Language&#039;, &#039;9780131103627&#039;]);" />
+<input type="hidden" name="form_build_id" id="form-f73777f37113010a3161c9cce890a0e8" value="form-f73777f37113010a3161c9cce890a0e8"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-5393595" value="uc_product_add_to_cart_form_5393595"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-12" value="5393595"  />
+
+</div></form>
+</div>    </div>
+  </div>
+</div>
+<div id="node-7323465" class="books-teaser">
+
+  <!-- Bilde -->
+  <div class="image">
+        <a href="/praktisk-brukertesting/wold-jon-gunnar/toftoey-andersen-eli/9788202343507" title="Praktisk brukertesting">
+      <img src="http://www.akademika.no/sites/default/files/imagecache/liten-forside/images/978/8/2/0/2/3/4/9788202343507_0.jpg" alt="Praktisk brukertesting - 2011 - (9788202343507)" title="Praktisk brukertesting - 2011 - (9788202343507)"  class="imagecache imagecache-liten-forside" width="100" height="133" />    </a>
+    <div class="ribbon ribbon-small">
+      <div class="ribbon-price"><span>299,-</span></div>    </div>
+  </div>
+
+  <!-- Info -->
+  <div class="info">
+    
+    <!-- Topp -->
+    <div class="top">
+      <div class="title">
+        <a href="/praktisk-brukertesting/wold-jon-gunnar/toftoey-andersen-eli/9788202343507" title="Praktisk brukertesting">Praktisk brukertesting</a> 
+        (Heftet (myke permer) - 2011 - Bokmål)      </div>
+    </div>
+    
+    <!-- Midt -->
+    <div class="middle">
+      <div class="author">
+        <span class="author">av <a href="/node/7323467">Toftøy-Andersen, Eli</a> - <a href="/node/7323466">Wold, Jon Gunnar</a></span>       </div>
+      <div class="price" style="font-weight:bold">
+        <div class="sell-price"><div class="tilbud">Nettpris: 299,-</div><div class="rabatt">Ordinær pris 369,-</div></div>      </div>
+    </div>
+    
+    <!-- Bunn -->
+    <div class="buy ">
+      <div class="add-to-cart"><form action="/praktisk-brukertesting/wold-jon-gunnar/toftoey-andersen-eli/9788202343507"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-7323465" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-13" value="1"  />
+<input type="submit" name="op" id="edit-submit-7323465" value="Legg i handlekurv"  class="form-submit node-add-to-cart ajax-cart-submit-form-button akav3-ajax-cart" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Kjopsknapp&#039;, &#039;&#039;, &#039;Praktisk brukertesting&#039;, &#039;9788202343507&#039;]);" />
+<input type="hidden" name="form_build_id" id="form-babe2628d3c652c0922bc4b9f5421cba" value="form-babe2628d3c652c0922bc4b9f5421cba"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-7323465" value="uc_product_add_to_cart_form_7323465"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-13" value="7323465"  />
+
+</div></form>
+</div>    </div>
+  </div>
+</div>
+<div id="node-8252208" class="books-teaser">
+
+  <!-- Bilde -->
+  <div class="image">
+        <a href="/matlab-a-practical-introduction-to-programming-and-problem-solving/stormy-attaway/9780123850812" title="Matlab: A Practical Introduction to Programming and Problem Solving">
+      <img src="http://www.akademika.no/sites/default/files/imagecache/liten-forside/images/978/0/1/2/3/8/5/9780123850812.jpg" alt="Matlab: A Practical Introduction to Programming and Problem Solving - 2011 - (9780123850812)" title="Matlab: A Practical Introduction to Programming and Problem Solving - 2011 - (9780123850812)"  class="imagecache imagecache-liten-forside" width="100" height="133" />    </a>
+    <div class="ribbon ribbon-small">
+      <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">372,-</span>
+</div>    </div>
+  </div>
+
+  <!-- Info -->
+  <div class="info">
+    
+    <!-- Topp -->
+    <div class="top">
+      <div class="title">
+        <a href="/matlab-a-practical-introduction-to-programming-and-problem-solving/stormy-attaway/9780123850812" title="Matlab: A Practical Introduction to Programming and Problem Solving">Matlab: A Practical Introduction to Programming and Problem Solving</a> 
+        (Heftet (myke permer) - 2011 - Engelsk)      </div>
+    </div>
+    
+    <!-- Midt -->
+    <div class="middle">
+      <div class="author">
+        <span class="author">av <a href="/node/4343404">Stormy Attaway</a></span>       </div>
+      <div class="price" style="font-weight:bold">
+        <div class="product-info vanlig">Nettpris: <span class="uc-price-vanlig uc-price">372,-</span>
+</div>      </div>
+    </div>
+    
+    <!-- Bunn -->
+    <div class="buy ">
+      <div class="add-to-cart"><form action="/matlab-a-practical-introduction-to-programming-and-problem-solving/stormy-attaway/9780123850812"  accept-charset="UTF-8" method="post" id="uc-product-add-to-cart-form-8252208" class="ajax-cart-submit-form">
+<div><input type="hidden" name="qty" id="edit-qty-14" value="1"  />
+<input type="submit" name="op" id="edit-submit-8252208" value="Legg i handlekurv"  class="form-submit node-add-to-cart ajax-cart-submit-form-button akav3-ajax-cart" onClick="_gaq.push([&#039;_trackEvent&#039;, &#039;Kjopsknapp&#039;, &#039;&#039;, &#039;Matlab: A Practical Introduction to Programming and Problem Solving&#039;, &#039;9780123850812&#039;]);" />
+<input type="hidden" name="form_build_id" id="form-768c462a2acb156ed2c5272a8474d8ce" value="form-768c462a2acb156ed2c5272a8474d8ce"  />
+<input type="hidden" name="form_id" id="edit-uc-product-add-to-cart-form-8252208" value="uc_product_add_to_cart_form_8252208"  />
+<input type="hidden" name="product-nid" id="edit-product-nid-14" value="8252208"  />
+
+</div></form>
+</div>    </div>
+  </div>
+</div></dl>
+<div class="item-list"><ul class="pager"><li class="pager-current first"><span>1</span></li>
+<li class="pager-item"><a href="/search/apachesolr_search?page=1&amp;filters=tid%3A109647" title="Gå til side 2" class="active">2</a></li>
+<li class="pager-item"><a href="/search/apachesolr_search?page=2&amp;filters=tid%3A109647" title="Gå til side 3" class="active">3</a></li>
+<li class="pager-item"><a href="/search/apachesolr_search?page=3&amp;filters=tid%3A109647" title="Gå til side 4" class="active">4</a></li>
+<li class="pager-item"><a href="/search/apachesolr_search?page=4&amp;filters=tid%3A109647" title="Gå til side 5" class="active">5</a></li>
+<li class="pager-item"><a href="/search/apachesolr_search?page=5&amp;filters=tid%3A109647" title="Gå til side 6" class="active">6</a></li>
+<li class="pager-item"><a href="/search/apachesolr_search?page=6&amp;filters=tid%3A109647" title="Gå til side 7" class="active">7</a></li>
+<li class="pager-item"><a href="/search/apachesolr_search?page=7&amp;filters=tid%3A109647" title="Gå til side 8" class="active">8</a></li>
+<li class="pager-item"><a href="/search/apachesolr_search?page=8&amp;filters=tid%3A109647" title="Gå til side 9" class="active">9</a></li>
+<li class="pager-ellipsis"><span>…</span></li>
+<li class="pager-next"><a href="/search/apachesolr_search?page=1&amp;filters=tid%3A109647" title="Gå til neste side" class="active">neste &gt;</a></li>
+<li class="pager-last last"><a href="/search/apachesolr_search?page=6446&amp;filters=tid%3A109647" title="Gå til den siste siden" class="active">siste »</a></li>
+</ul></div>
+      	            </div>
+          </div>
+      	      </div>
+    </div>
+
+    <div id="footer">
+  <div id="footer-menus">
+    <div class="footer-menu" id="footer-menu-1">
+      <div class="title">Akademika AS</div>
+      <ul class="menu"><ul class="menu"><li class="leaf first"><a href="http://www.akademika.no/node/9402419" title="">Om Akademika</a></li>
+<li class="leaf"><a href="http://akademika.designguide.no/" title="">Designguide</a></li>
+<li class="leaf last"><a href="http://www.akademika.no/ledigestillinger" title="">Ledige stillinger</a></li>
+</ul></ul>          </div>
+    <div class="footer-menu" id="footer-menu-2">
+      <div class="title">Tjenester</div>
+      <ul class="menu"><ul class="menu"><li class="leaf first"><a href="http://www.akademikaforlag.no/" title="">Akademika Forlag</a></li>
+<li class="leaf"><a href="http://www.akademika.no/tekstverksted" title="">Tekstverksted</a></li>
+<li class="leaf last"><a href="http://www.salongen.no/" title="">Salongen.no</a></li>
+</ul></ul>          </div>
+    <div class="footer-menu" id="footer-menu-3">
+      <div class="title">Følg oss</div>
+      <ul class="menu"><ul class="menu"><li class="leaf first"><a href="http://www.facebook.com/pages/Akademika/63098150905?ref=ts" title="">Facebook</a></li>
+<li class="leaf"><a href="http://www.twitter.com/akademika_no" title="">Twitter</a></li>
+<li class="leaf last"><a href="http://www.linkedin.com/company/akademika" title="">LinkedIn</a></li>
+</ul></ul>          </div>
+    <div style="clear:both"></div>
+  </div>
+  <div class="bottom"><img src="/sites/default/themes/akav3/images/aka_logo_liten.png" alt="Akademika" title="Akademika" width="64" height="10" /></div>
+  <div id="copyright">
+    Copyright (C) 2013 Akademika. All rights reserved. Programmering og implementering av <a href="http://www.nymedia.no" target="_blank">Ny Media AS</a><br />
+    Online Multimedia Plattform levert av <a href="http://www.paragallo.com">Paragallo AS</a>
+  </div>
+</div> <!-- /footer -->  </div>
+
+  
+<div id="fb-root"></div><script type="text/javascript">
+     window.fbAsyncInit = function() {
+       FB.init({
+         appId: "292711550800937",
+         status: true,
+         cookie: true,
+         xfbml: true,
+         channelUrl: "http:\/\/www.akademika.no\/channel"
+       });
+       
+     };
+     (function() {
+       var e = document.createElement('script');
+       e.async = true;
+       e.src = document.location.protocol + '//connect.facebook.net/nb_NO/all.js';
+       document.getElementById('fb-root').appendChild(e);
+     }());
+  </script><script type="text/javascript">
+    setTimeout(function(){var a=document.createElement("script");
+    var b=document.getElementsByTagName("script")[0];
+    a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/9606.js?"+Math.floor(new Date().getTime()/3600000);
+    a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+    </script><script type="text/javascript">
+                var _wt = "9e5f84";
+                (function () {
+                  if (document.cookie.indexOf("VISITED_2887") < 0) {
+                    var ws = document.createElement("script"); ws.type = "text/javascript"; ws.async = true;
+                    ws.src = ("https:" == document.location.protocol ? "https://ssl." : "http://") + "survey.webstatus.v2.userneeds.dk/wsi.ashx?t=" + _wt + (location.href.indexOf("wsiNoCookie") >= 0 ? "&nc=1" : "");
+                    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ws, s);
+                }
+                })();
+              </script><script type='text/javascript'>   var _wt = 'adf54b';
+      (function () {
+          if (document.cookie.indexOf('VISITED_3175') < 0) {
+              var ws = document.createElement('script'); ws.type = 'text/javascript'; ws.async = true;
+              ws.src = ('https:' == document.location.protocol ? 'https://ssl.' : 'http://') + 'survey.webstatus.v2.userneeds.dk/wsi.ashx?t=' + _wt + (location.href.indexOf('wsiNoCookie') >= 0 ? '&nc=1' : '');
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ws, s);
+      }})();
+   </script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+Cufon.now();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-9680238-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _eyeonio = _eyeonio || [];
+  _eyeonio.push(['setApikey', 'abc']);
+  _eyeonio.push(['trackPageView']);
+
+  (function() {
+    var _scr = document.createElement('script'); _scr.type = 'text/javascript'; _scr.async = true;
+    _scr.src = '//dashboard.nymedia.no/static/api/eyeonio.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(_scr, s);
+  })();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"CToolsAJAX":{"scripts":{"\/sites\/all\/modules\/jquery_update\/replace\/jquery.js?d":true,"\/misc\/drupal.js?d":true,"\/sites\/default\/files\/languages\/nb_589f8192d3b001cd384f577ee012d7ba.js?d":true,"\/sites\/default\/modules\/akademika_site\/akademika_site.js?d":true,"\/sites\/all\/modules\/jquery_ui\/jquery.ui\/ui\/ui.core.js?d":true,"\/sites\/all\/modules\/jquery_ui\/jquery.ui\/ui\/ui.tabs.js?d":true,"\/sites\/default\/modules\/digitalmaster\/digitalmaster.js?d":true,"\/sites\/default\/modules\/digitalmaster\/jquery.livequery.js?d":true,"\/sites\/all\/modules\/apachesolr_autocomplete\/apachesolr_autocomplete.js?d":true,"\/sites\/all\/modules\/apachesolr_autocomplete\/jquery-autocomplete\/jquery.autocomplete.js?d":true,"\/sites\/all\/modules\/fivestar\/js\/fivestar.js?d":true,"\/sites\/all\/modules\/google_analytics\/googleanalytics.js?d":true,"\/sites\/all\/modules\/jquery_update\/replace\/jquery.form.js?d":true,"\/sites\/all\/modules\/uc_ajax_cart\/js\/jquery.blockUI.js?d":true,"\/sites\/all\/modules\/uc_ajax_cart\/js\/uc_ajax_cart.js?d":true,"\/sites\/all\/modules\/uc_ajax_cart\/js\/jquery.cookie.js?d":true,"\/sites\/default\/modules\/akav2_frontpage\/superfish.js?d":true,"\/sites\/default\/modules\/akav2_frontpage\/akav2_frontpage.js?d":true,"\/sites\/default\/modules\/akav3_specifics\/cufon-yui.js?d":true,"\/sites\/default\/modules\/akav3_specifics\/Flavin_400-Flavin_500.font.js?d":true,"\/sites\/default\/modules\/akav3_specifics\/akav3_specifics.js?d":true,"\/sites\/default\/modules\/selvprofilering\/selvprofilering.js?d":true,"\/sites\/default\/modules\/uc_beautify\/uc_beautify.js?d":true,"\/sites\/all\/modules\/jquery_ui\/jquery.ui\/ui\/effects.core.js?d":true,"\/sites\/all\/modules\/jquery_ui\/jquery.ui\/ui\/effects.highlight.js?d":true,"\/sites\/default\/modules\/uc_pickupstore\/js\/uc_pickupstore.js?d":true,"\/sites\/all\/modules\/apachesolr\/apachesolr.js?d":true},"css":{"\/sites\/all\/modules\/jquery_ui\/jquery.ui\/themes\/base\/ui.tabs.css?d":true,"\/sites\/default\/modules\/digitalmaster\/digitalmaster.css?d":true,"\/modules\/aggregator\/aggregator.css?d":true,"\/modules\/node\/node.css?d":true,"\/modules\/system\/defaults.css?d":true,"\/modules\/system\/system.css?d":true,"\/modules\/system\/system-menus.css?d":true,"\/modules\/user\/user.css?d":true,"\/sites\/all\/modules\/apachesolr_autocomplete\/apachesolr_autocomplete.css?d":true,"\/sites\/all\/modules\/apachesolr_autocomplete\/jquery-autocomplete\/jquery.autocomplete.css?d":true,"\/sites\/all\/modules\/cck\/theme\/content-module.css?d":true,"\/sites\/all\/modules\/ckeditor\/ckeditor.css?d":true,"\/sites\/all\/modules\/date\/date.css?d":true,"\/sites\/all\/modules\/filefield\/filefield.css?d":true,"\/sites\/all\/modules\/fivestar\/css\/fivestar.css?d":true,"\/sites\/default\/files\/fivestar\/oxygen\/oxygen.css?d":true,"\/sites\/all\/modules\/logintoboggan\/logintoboggan.css?d":true,"\/sites\/all\/modules\/mollom\/mollom.css?d":true,"\/sites\/all\/modules\/simplenews\/simplenews.css?d":true,"\/sites\/all\/modules\/ubercart\/shipping\/uc_quote\/uc_quote.css?d":true,"\/sites\/all\/modules\/ubercart\/uc_order\/uc_order.css?d":true,"\/sites\/all\/modules\/ubercart\/uc_product\/uc_product.css?d":true,"\/sites\/all\/modules\/ubercart\/uc_store\/uc_store.css?d":true,"\/sites\/all\/modules\/uc_ajax_cart\/css\/uc_ajax_cart.css?d":true,"\/sites\/all\/modules\/uc_pic_cart_block\/uc_pic_cart_block.css?d":true,"\/sites\/all\/modules\/upload_element\/upload_element.css?d":true,"\/sites\/default\/modules\/akav2_frontpage\/akav2_frontpage.css?d":true,"\/sites\/default\/modules\/akav3_specifics\/akav3_specifics.css?d":true,"\/sites\/default\/modules\/selvprofilering\/selvprofilering.css?d":true,"\/sites\/default\/modules\/services3\/ctools\/css\/ctools.css?d":true,"\/sites\/default\/modules\/uc_pickupstore\/css\/uc_pickupstore.css?d":true,"\/sites\/all\/modules\/cck\/modules\/fieldgroup\/fieldgroup.css?d":true,"\/sites\/default\/modules\/uc_beautify\/uc_beautify2.css?d":true,"\/sites\/default\/themes\/akav3\/style.css?d":true}}});
+//--><!]]>
+</script>
+</body>
+</html>
