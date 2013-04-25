@@ -13,3 +13,4 @@ class AkademikaItem(Item):
     link = Field()
     ordinaryprice = Field()
     saleprice = Field()
+    price = Field()
