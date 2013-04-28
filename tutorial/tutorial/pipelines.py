@@ -2,14 +2,18 @@
 #
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: http://doc.scrapy.org/topics/item-pipeline.html
+import sys
+import MySQLdb
+import hashlib
 from scrapy import signals
 from scrapy.exceptions import DropItem
-import json
+from scrapy.http import Request
 
 class PricePipeline(object):
 
 	def __init__(self):
-		self.file = open('items.jl', 'wb')
+		self.conn = MySQLdb.connect(user='drupal', '16bitlove', 'drupal7', 'localhost', charset="utf8", use_unicode=True)
+    	self.cursor = self.conn.cursor()
 		self.isbns_seen = set()
 
 	def process_item(self, item, spider):
@@ -21,22 +25,35 @@ class PricePipeline(object):
 				item['price'] = item['saleprice']
 				del item['ordinaryprice']
 				del item['saleprice']
-				line = json.dumps(dict(item)) + "\n"
-				self.file.write(line)
+				store_item(self, item)
 				return item
 			elif item['saleprice']:
 				item['price'] = item['saleprice']
 				del item['ordinaryprice']
 				del item['saleprice']
-				line = json.dumps(dict(item)) + "\n"
-				self.file.write(line)
+				store_item(self, item)
 				return item
 			elif item['ordinaryprice']:
 				item['price'] = item['ordinaryprice']
 				del item['ordinaryprice']
 				del item['saleprice']
-				line = json.dumps(dict(item)) + "\n"
-				self.file.write(line)
+				store_item(self, item)
 				return item
 			else:
 				raise DropItem("Missing price in %s" % item)
+
+
+	def store_item(self, item):
+		try:
+	        self.cursor.execute("""INSERT INTO pricescraper (isbn, title, link, price)  
+	                        VALUES (%s, %s, %s, %s)""", 
+	                       (item['isbn'].encode('utf-8'), 
+	                       	item['title'].encode('utf-8'),
+	                       	item['link'].encode('utf-8'),
+	                        item['price'].encode('utf-8')))
+
+	        self.conn.commit()
+
+
+	    except MySQLdb.Error, e:
+	        print "Error %d: %s" % (e.args[0], e.args[1])
